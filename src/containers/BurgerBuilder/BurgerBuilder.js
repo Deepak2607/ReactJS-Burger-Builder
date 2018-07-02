@@ -4,7 +4,7 @@ import BuildControls from '../../components/Burger/BuildControls/BuildControls';
 import Modal from '../../components/UI/Modal/Modal'; 
 import Toolbar from '../../components/Navigation/Toolbar/Toolbar';
 
-class BurgerBuilder extends Component {
+class BurgerBuilder extends Component{
 
       constructor(){
           super();
